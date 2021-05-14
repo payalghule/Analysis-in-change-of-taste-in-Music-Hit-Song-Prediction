@@ -18,7 +18,7 @@
 2. You can run this code in Jupyter Notebook.
 
 # Authors
-Shantanu Papal
-Payal Ghule
-Paras Gandhi
-Harsh Sheth
+1. Shantanu Papal
+2. Payal Ghule
+3. Paras Gandhi
+4. Harsh Sheth
