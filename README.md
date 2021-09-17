@@ -20,5 +20,4 @@
 # Authors
 1. Shantanu Papal
 2. Payal Ghule
-3. Paras Gandhi
-4. Harsh Sheth
+
